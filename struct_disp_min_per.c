@@ -8,7 +8,7 @@ struct student
 int main()
 {
  int i,n,min;
- printf("enter limit::");
+ printf("enter limit:");
  scanf("%d",&n);
    for(i=0;i<n;i++)
    {
