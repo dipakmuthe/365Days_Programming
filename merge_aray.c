@@ -34,6 +34,6 @@ int main()
   printf("\n Merge array :");
   for(i=0;i<n3;i++)
   {
-    printf("%d\t",c[i]);
+    printf("%d \t",c[i]);
   }
 }
